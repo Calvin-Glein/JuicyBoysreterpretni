@@ -1,0 +1,38 @@
+public class Demo {
+
+void  testOne(){
+	int x = 0;
+	scan("Hello. I need your number: ", x);
+	
+	for(int i ; i < 10; i += 1){
+		print("Yes ", x);
+	}
+
+	x = 5 + x;
+
+}
+
+void testTwo(float x){
+	if(x = 4)
+	{	
+		printed("x is a very huge number: ");
+	}
+}
+
+void testThree(int x, int y){
+	int i = 0;
+	do { 
+		i++;
+	} while(i==0);
+}
+
+void main(){
+
+	float value = (5 * 1);
+	this.testOne(x);
+	this.testTwo(123);
+	float nextValue = 5 * 5;
+
+}
+
+}
